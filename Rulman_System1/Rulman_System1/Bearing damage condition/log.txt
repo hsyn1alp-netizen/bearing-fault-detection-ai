@@ -1,0 +1,1014 @@
+21:08:02 | hasarli | %39.54
+21:08:05 | hasarli | %37.92
+21:11:53 | cizik | %41.37
+21:11:56 | normal | %30.60
+21:11:57 | cizik | %28.10
+21:11:58 | normal | %25.70
+21:11:59 | hasarli | %22.83
+21:11:59 | kirli | %23.52
+21:11:59 | cizik | %23.68
+21:12:00 | hasarli | %27.35
+21:12:07 | cizik | %29.68
+21:12:08 | hasarli | %32.61
+21:12:09 | cizik | %30.01
+21:12:10 | kirli | %26.70
+21:12:10 | hasarli | %28.10
+21:12:10 | cizik | %44.78
+21:12:11 | hasarli | %35.02
+21:12:11 | cizik | %41.34
+21:12:11 | hasarli | %41.37
+21:12:18 | kirli | %39.82
+21:12:18 | hasarli | %36.38
+21:12:19 | cizik | %44.52
+21:12:39 | hasarli | %41.73
+21:12:39 | cizik | %42.29
+21:12:40 | hasarli | %43.10
+21:12:40 | cizik | %33.77
+21:12:41 | kirli | %28.99
+21:12:42 | pasli | %31.99
+21:12:44 | cizik | %27.61
+21:12:44 | kirli | %29.79
+21:12:47 | pasli | %28.60
+21:12:47 | kirli | %25.69
+21:12:47 | normal | %26.78
+21:12:51 | kirli | %30.71
+21:12:52 | normal | %32.89
+21:12:57 | kirli | %31.14
+21:12:57 | normal | %33.00
+21:12:57 | kirli | %29.85
+21:12:58 | normal | %31.11
+21:12:59 | kirli | %40.08
+21:13:02 | normal | %39.61
+21:13:03 | kirli | %31.08
+21:13:04 | normal | %26.99
+21:13:04 | kirli | %31.04
+21:13:04 | normal | %38.61
+21:13:06 | kirli | %39.18
+21:13:06 | normal | %38.49
+21:13:09 | kirli | %32.90
+21:13:09 | normal | %30.15
+21:13:09 | kirli | %29.13
+21:13:09 | normal | %29.39
+21:13:10 | kirli | %31.79
+21:13:10 | normal | %35.56
+21:13:12 | cizik | %39.11
+21:13:14 | normal | %26.98
+21:13:17 | cizik | %25.64
+21:13:18 | kirli | %27.79
+21:13:18 | normal | %28.90
+21:13:19 | cizik | %26.30
+21:13:19 | normal | %29.32
+21:13:20 | cizik | %23.35
+21:13:20 | normal | %25.30
+21:13:21 | hasarli | %22.86
+21:13:21 | cizik | %22.46
+21:13:22 | hasarli | %23.16
+21:13:22 | normal | %25.03
+21:13:22 | kirli | %27.76
+21:13:24 | hasarli | %28.44
+21:13:24 | kirli | %27.54
+21:13:24 | hasarli | %27.68
+21:13:24 | kirli | %28.49
+21:13:25 | normal | %33.82
+21:13:28 | cizik | %24.20
+21:21:01 | cizik | %41.02
+21:21:08 | hasarli | %32.88
+21:21:08 | kirli | %30.65
+21:21:10 | normal | %36.99
+21:21:11 | kirli | %34.43
+21:21:13 | normal | %35.98
+21:21:13 | kirli | %34.46
+21:21:15 | normal | %37.94
+21:21:18 | kirli | %36.37
+21:21:22 | normal | %33.24
+21:21:28 | kirli | %29.77
+21:21:31 | pasli | %32.89
+21:21:31 | kirli | %26.75
+21:21:32 | normal | %33.05
+21:21:32 | kirli | %29.95
+21:21:33 | pasli | %31.83
+21:21:36 | cizik | %28.20
+21:21:37 | kirli | %28.52
+21:21:38 | cizik | %24.67
+21:21:38 | normal | %30.23
+21:21:39 | hasarli | %26.18
+21:21:40 | kirli | %25.16
+21:21:40 | pasli | %23.12
+21:21:40 | cizik | %24.45
+21:21:41 | kirli | %30.66
+21:21:43 | pasli | %27.08
+21:21:44 | kirli | %23.27
+21:21:44 | pasli | %23.49
+21:21:45 | kirli | %22.47
+21:21:45 | cizik | %27.35
+21:21:45 | pasli | %26.56
+21:21:45 | kirli | %27.73
+21:21:46 | normal | %30.56
+21:21:46 | hasarli | %26.70
+21:21:47 | normal | %30.02
+21:21:47 | pasli | %28.78
+21:21:48 | kirli | %25.07
+21:21:49 | pasli | %25.10
+21:21:49 | hasarli | %24.68
+21:21:49 | cizik | %22.44
+21:22:00 | pasli | %22.70
+21:22:00 | kirli | %22.53
+21:22:01 | pasli | %24.09
+21:22:01 | normal | %28.78
+21:22:01 | kirli | %27.85
+21:22:02 | normal | %25.72
+21:22:04 | kirli | %36.34
+21:22:06 | normal | %36.29
+21:22:06 | kirli | %35.61
+21:22:07 | normal | %35.81
+21:22:20 | hasarli | %31.92
+21:22:20 | normal | %28.25
+21:22:20 | kirli | %27.04
+21:22:24 | hasarli | %28.30
+21:22:24 | normal | %36.11
+21:22:25 | hasarli | %26.79
+21:22:25 | normal | %34.51
+21:22:30 | hasarli | %26.29
+21:22:30 | normal | %22.39
+21:22:30 | hasarli | %23.03
+21:22:32 | normal | %34.44
+21:22:34 | hasarli | %35.69
+21:22:35 | normal | %34.07
+21:22:44 | hasarli | %32.08
+21:22:45 | normal | %29.86
+21:22:48 | hasarli | %30.46
+21:22:49 | normal | %30.40
+21:22:51 | hasarli | %31.32
+21:22:52 | cizik | %28.70
+21:22:54 | pasli | %24.59
+21:22:55 | cizik | %28.23
+21:22:58 | hasarli | %24.44
+21:22:58 | cizik | %26.41
+21:22:59 | hasarli | %26.13
+21:22:59 | normal | %26.63
+21:23:01 | hasarli | %29.22
+21:23:02 | normal | %27.06
+21:23:02 | kirli | %27.98
+21:23:05 | normal | %32.80
+21:23:05 | cizik | %32.81
+21:23:37 | cizik | %41.00
+21:24:22 | kirli | %40.14
+21:24:22 | cizik | %27.23
+21:24:22 | hasarli | %31.04
+21:24:23 | pasli | %23.46
+21:24:23 | cizik | %24.58
+21:24:23 | kirli | %24.51
+21:24:24 | normal | %27.61
+21:24:24 | hasarli | %34.64
+21:24:25 | cizik | %29.61
+21:24:25 | kirli | %34.73
+21:24:29 | normal | %25.43
+21:24:29 | pasli | %26.14
+21:24:31 | kirli | %25.31
+21:24:31 | pasli | %23.89
+21:24:31 | normal | %24.45
+21:24:32 | hasarli | %34.33
+21:24:35 | kirli | %23.69
+21:24:36 | pasli | %29.08
+21:24:37 | kirli | %26.08
+21:24:38 | hasarli | %28.23
+21:24:40 | normal | %28.17
+21:24:40 | hasarli | %27.58
+21:24:42 | kirli | %28.33
+21:24:42 | pasli | %29.25
+21:24:44 | kirli | %28.56
+21:24:45 | hasarli | %28.12
+21:24:45 | kirli | %27.23
+21:24:46 | hasarli | %24.04
+21:24:46 | kirli | %24.82
+21:24:48 | cizik | %27.68
+21:24:49 | kirli | %26.97
+21:24:56 | hasarli | %26.38
+21:24:57 | cizik | %23.65
+21:24:57 | kirli | %27.79
+21:25:00 | pasli | %22.11
+21:25:01 | normal | %30.31
+21:25:02 | cizik | %35.94
+21:25:03 | kirli | %31.24
+21:25:04 | normal | %31.15
+21:25:04 | hasarli | %33.94
+21:25:05 | normal | %34.23
+21:25:05 | kirli | %33.14
+21:25:05 | normal | %33.47
+21:25:06 | kirli | %32.07
+21:25:06 | hasarli | %30.84
+21:25:07 | kirli | %29.93
+21:25:07 | hasarli | %33.12
+21:25:08 | normal | %28.75
+21:25:11 | hasarli | %26.67
+21:25:11 | normal | %26.23
+21:25:12 | hasarli | %26.80
+21:25:12 | normal | %26.92
+21:25:12 | hasarli | %27.37
+21:25:12 | normal | %27.84
+21:25:12 | hasarli | %27.28
+21:25:14 | normal | %27.66
+21:25:14 | kirli | %32.72
+21:25:15 | hasarli | %33.25
+21:25:16 | kirli | %34.58
+21:25:17 | normal | %33.54
+21:25:17 | kirli | %31.80
+21:25:18 | pasli | %26.55
+21:25:19 | cizik | %24.64
+21:25:24 | kirli | %28.32
+21:25:26 | cizik | %34.44
+21:25:27 | kirli | %26.29
+21:25:28 | cizik | %30.64
+21:25:28 | hasarli | %27.40
+21:25:28 | normal | %31.93
+21:25:29 | hasarli | %29.00
+21:25:29 | cizik | %27.06
+21:25:30 | kirli | %27.55
+21:25:31 | cizik | %28.64
+21:25:33 | kirli | %23.64
+21:25:33 | cizik | %24.54
+21:25:33 | pasli | %24.99
+21:25:36 | cizik | %29.03
+21:25:37 | kirli | %29.66
+21:25:37 | normal | %28.87
+21:25:38 | cizik | %30.61
+21:25:38 | normal | %27.98
+21:25:38 | cizik | %29.41
+21:25:39 | kirli | %29.40
+21:25:39 | normal | %30.94
+21:25:39 | kirli | %29.47
+21:25:40 | cizik | %30.32
+21:25:43 | kirli | %28.43
+21:25:43 | cizik | %29.02
+21:25:43 | kirli | %28.49
+21:25:43 | cizik | %32.42
+21:25:45 | kirli | %25.52
+21:25:45 | pasli | %28.24
+21:25:45 | kirli | %27.53
+21:25:45 | normal | %35.36
+21:25:45 | kirli | %35.89
+21:25:48 | pasli | %30.01
+21:25:49 | kirli | %30.16
+21:25:52 | normal | %28.30
+21:25:52 | hasarli | %27.19
+21:25:53 | kirli | %30.57
+21:25:55 | normal | %25.09
+21:25:55 | kirli | %23.07
+21:25:56 | pasli | %26.77
+21:25:57 | kirli | %29.03
+21:25:59 | normal | %27.06
+21:26:02 | cizik | %29.71
+21:30:07 | cizik | %50.63
+21:30:07 | hasarli | %31.37
+21:32:02 | cizik | %41.95
+21:32:03 | hasarli | %32.73
+21:32:09 | kirli | %33.59
+21:32:10 | hasarli | %31.11
+21:32:10 | cizik | %36.47
+21:32:11 | kirli | %27.48
+21:32:11 | normal | %33.90
+21:32:13 | pasli | %31.22
+21:32:14 | kirli | %29.42
+21:32:14 | normal | %34.74
+21:32:15 | kirli | %28.44
+21:32:16 | pasli | %27.89
+21:32:17 | kirli | %28.78
+21:32:17 | pasli | %29.63
+21:32:17 | kirli | %25.86
+21:32:17 | cizik | %31.04
+21:32:18 | hasarli | %33.17
+21:32:22 | kirli | %37.41
+21:32:22 | hasarli | %36.27
+21:32:24 | pasli | %45.11
+[2026-04-08 21:33:04] [KAMERA] [HASARLI] Confidence: %37.84
+[2026-04-08 21:33:09] [KAMERA] [KIRLI] Confidence: %37.33
+[2026-04-08 21:33:10] [KAMERA] [HASARLI] Confidence: %38.95
+[2026-04-08 21:33:10] [KAMERA] [CIZIK] Confidence: %46.90
+[2026-04-08 21:33:14] [KAMERA] [HASARLI] Confidence: %35.74
+[2026-04-08 21:33:15] [KAMERA] [KIRLI] Confidence: %37.15
+[2026-04-08 21:33:16] [KAMERA] [NORMAL] Confidence: %38.21
+[2026-04-08 21:33:19] [KAMERA] [KIRLI] Confidence: %36.11
+[2026-04-08 21:33:21] [KAMERA] [HASARLI] Confidence: %37.86
+[2026-04-08 21:33:21] [KAMERA] [CIZIK] Confidence: %35.53
+[2026-04-08 22:10:48] [KAMERA] [NORMAL] Confidence: %35.08
+[2026-04-08 22:10:54] [KAMERA] [HASARLI] Confidence: %37.06
+[2026-04-08 22:10:55] [KAMERA] [CIZIK] Confidence: %38.11
+[2026-04-08 22:10:56] [KAMERA] [NORMAL] Confidence: %35.78
+[2026-04-08 22:11:04] [KAMERA] [HASARLI] Confidence: %38.12
+[2026-04-08 22:11:06] [KAMERA] [NORMAL] Confidence: %36.98
+[2026-04-08 22:11:07] [KAMERA] [KIRLI] Confidence: %36.61
+[2026-04-08 22:11:08] [KAMERA] [NORMAL] Confidence: %35.24
+[2026-04-08 22:11:09] [KAMERA] [HASARLI] Confidence: %41.44
+[2026-04-08 22:11:25] [KAMERA] [NORMAL] Confidence: %35.67
+[2026-04-08 22:11:33] [KAMERA] [KIRLI] Confidence: %35.00
+[2026-04-08 22:11:34] [KAMERA] [HASARLI] Confidence: %36.43
+[2026-04-08 22:11:35] [KAMERA] [NORMAL] Confidence: %37.99
+[2026-04-08 22:11:35] [KAMERA] [CIZIK] Confidence: %35.99
+[2026-04-08 22:11:39] [KAMERA] [NORMAL] Confidence: %39.17
+[2026-04-08 22:11:40] [KAMERA] [CIZIK] Confidence: %36.05
+[2026-04-08 22:11:45] [KAMERA] [NORMAL] Confidence: %47.59
+[2026-04-08 22:11:47] [KAMERA] [CIZIK] Confidence: %36.30
+[2026-04-08 22:11:51] [KAMERA] [KIRLI] Confidence: %35.39
+[2026-04-08 22:11:56] [KAMERA] [PASLI] Confidence: %36.90
+[2026-04-08 22:12:01] [KAMERA] [NORMAL] Confidence: %35.23
+[2026-04-08 22:12:08] [KAMERA] [PASLI] Confidence: %36.64
+[2026-04-08 22:12:11] [KAMERA] [KIRLI] Confidence: %36.92
+[2026-04-08 22:12:11] [KAMERA] [CIZIK] Confidence: %37.48
+[2026-04-08 22:12:12] [KAMERA] [KIRLI] Confidence: %35.01
+[2026-04-08 22:12:13] [KAMERA] [PASLI] Confidence: %35.58
+[2026-04-08 22:12:14] [KAMERA] [KIRLI] Confidence: %35.10
+[2026-04-08 22:12:23] [KAMERA] [NORMAL] Confidence: %35.30
+[2026-04-08 22:12:28] [KAMERA] [PASLI] Confidence: %35.95
+[2026-04-08 22:12:39] [KAMERA] [KIRLI] Confidence: %35.46
+[2026-04-08 22:12:55] [KAMERA] [NORMAL] Confidence: %35.41
+[2026-04-08 22:13:09] [KAMERA] [HASARLI] Confidence: %40.26
+[2026-04-08 22:13:09] [KAMERA] [CIZIK] Confidence: %41.26
+[2026-04-08 22:13:10] [KAMERA] [HASARLI] Confidence: %35.88
+[2026-04-08 22:13:10] [KAMERA] [NORMAL] Confidence: %40.04
+[2026-04-08 22:13:11] [KAMERA] [HASARLI] Confidence: %39.05
+[2026-04-08 23:14:01] [KAMERA] [NORMAL] Confidence: %70.63
+[2026-04-08 23:14:02] [KAMERA] [HASARLI] Confidence: %41.83
+[2026-04-08 23:14:02] [KAMERA] [KIRLI] Confidence: %35.17
+[2026-04-08 23:14:03] [KAMERA] [HASARLI] Confidence: %35.67
+[2026-04-08 23:14:04] [KAMERA] [NORMAL] Confidence: %37.43
+[2026-04-08 23:14:06] [KAMERA] [HASARLI] Confidence: %35.75
+[2026-04-08 23:14:09] [KAMERA] [NORMAL] Confidence: %40.25
+[2026-04-08 23:14:10] [KAMERA] [HASARLI] Confidence: %41.11
+[2026-04-08 23:14:10] [KAMERA] [NORMAL] Confidence: %42.30
+[2026-04-08 23:14:13] [KAMERA] [HASARLI] Confidence: %39.01
+[2026-04-08 23:14:14] [KAMERA] [NORMAL] Confidence: %38.68
+[2026-04-08 23:14:14] [KAMERA] [HASARLI] Confidence: %38.66
+[2026-04-08 23:14:15] [KAMERA] [NORMAL] Confidence: %37.16
+[2026-04-08 23:14:15] [KAMERA] [HASARLI] Confidence: %37.58
+[2026-04-08 23:14:16] [KAMERA] [NORMAL] Confidence: %46.01
+[2026-04-08 23:14:17] [KAMERA] [HASARLI] Confidence: %37.18
+[2026-04-08 23:14:18] [KAMERA] [NORMAL] Confidence: %44.67
+[2026-04-08 23:14:18] [KAMERA] [HASARLI] Confidence: %42.28
+[2026-04-08 23:14:18] [KAMERA] [NORMAL] Confidence: %42.10
+[2026-04-08 23:14:19] [KAMERA] [HASARLI] Confidence: %39.79
+[2026-04-08 23:14:21] [KAMERA] [NORMAL] Confidence: %38.99
+[2026-04-08 23:14:26] [KAMERA] [HASARLI] Confidence: %39.08
+[2026-04-08 23:14:27] [KAMERA] [NORMAL] Confidence: %37.63
+[2026-04-08 23:14:28] [KAMERA] [HASARLI] Confidence: %35.54
+[2026-04-08 23:14:29] [KAMERA] [CIZIK] Confidence: %37.58
+[2026-04-08 23:14:33] [KAMERA] [HASARLI] Confidence: %35.17
+[2026-04-08 23:14:34] [KAMERA] [NORMAL] Confidence: %37.08
+[2026-04-08 23:14:34] [KAMERA] [HASARLI] Confidence: %35.23
+[2026-04-08 23:14:35] [KAMERA] [NORMAL] Confidence: %40.68
+[2026-04-08 23:14:36] [KAMERA] [CIZIK] Confidence: %36.05
+[2026-04-08 23:14:36] [KAMERA] [NORMAL] Confidence: %39.05
+[2026-04-08 23:14:37] [KAMERA] [HASARLI] Confidence: %39.59
+[2026-04-08 23:14:37] [KAMERA] [NORMAL] Confidence: %37.23
+[2026-04-08 23:14:40] [KAMERA] [HASARLI] Confidence: %35.91
+[2026-04-08 23:14:40] [KAMERA] [NORMAL] Confidence: %35.70
+[2026-04-08 23:14:41] [KAMERA] [HASARLI] Confidence: %39.85
+[2026-04-08 23:14:42] [KAMERA] [NORMAL] Confidence: %40.22
+[2026-04-08 23:14:44] [KAMERA] [HASARLI] Confidence: %37.52
+[2026-04-08 23:14:45] [KAMERA] [CIZIK] Confidence: %39.32
+[2026-04-08 23:14:54] [KAMERA] [NORMAL] Confidence: %35.76
+[2026-04-08 23:14:54] [KAMERA] [HASARLI] Confidence: %46.58
+[2026-04-08 23:14:54] [KAMERA] [CIZIK] Confidence: %46.14
+[2026-04-08 23:15:00] [KAMERA] [HASARLI] Confidence: %35.52
+[2026-04-08 23:15:00] [KAMERA] [CIZIK] Confidence: %38.09
+[2026-04-08 23:15:01] [KAMERA] [HASARLI] Confidence: %36.21
+[2026-04-08 23:15:01] [KAMERA] [CIZIK] Confidence: %43.53
+[2026-04-08 23:15:05] [KAMERA] [HASARLI] Confidence: %37.44
+[2026-04-08 23:15:07] [KAMERA] [CIZIK] Confidence: %35.78
+[2026-04-08 23:15:07] [KAMERA] [HASARLI] Confidence: %37.64
+[2026-04-08 23:15:11] [KAMERA] [CIZIK] Confidence: %36.16
+[2026-04-08 23:15:12] [KAMERA] [NORMAL] Confidence: %37.35
+[2026-04-08 23:15:14] [KAMERA] [CIZIK] Confidence: %39.74
+[2026-04-08 23:15:19] [KAMERA] [NORMAL] Confidence: %35.65
+[2026-04-08 23:15:21] [KAMERA] [HASARLI] Confidence: %35.06
+[2026-04-08 23:15:21] [KAMERA] [CIZIK] Confidence: %36.54
+[2026-04-08 23:15:26] [KAMERA] [HASARLI] Confidence: %36.93
+[2026-04-08 23:15:26] [KAMERA] [CIZIK] Confidence: %41.63
+[2026-04-08 23:15:26] [KAMERA] [HASARLI] Confidence: %43.24
+[2026-04-08 23:15:28] [KAMERA] [CIZIK] Confidence: %43.77
+[2026-04-08 23:15:29] [KAMERA] [HASARLI] Confidence: %39.76
+[2026-04-08 23:15:29] [KAMERA] [CIZIK] Confidence: %39.79
+[2026-04-08 23:15:35] [KAMERA] [HASARLI] Confidence: %39.55
+[2026-04-08 23:15:36] [KAMERA] [NORMAL] Confidence: %40.27
+[2026-04-08 23:15:37] [KAMERA] [HASARLI] Confidence: %35.12
+[2026-04-08 23:15:37] [KAMERA] [NORMAL] Confidence: %39.72
+[2026-04-08 23:15:38] [KAMERA] [CIZIK] Confidence: %43.89
+[2026-04-08 23:15:56] [KAMERA] [HASARLI] Confidence: %35.94
+[2026-04-08 23:15:59] [KAMERA] [CIZIK] Confidence: %40.12
+[2026-04-08 23:16:00] [KAMERA] [HASARLI] Confidence: %35.91
+[2026-04-08 23:16:01] [KAMERA] [NORMAL] Confidence: %39.17
+[2026-04-08 23:16:04] [KAMERA] [CIZIK] Confidence: %44.07
+[2026-04-08 23:16:04] [KAMERA] [HASARLI] Confidence: %37.89
+[2026-04-08 23:16:05] [KAMERA] [CIZIK] Confidence: %39.43
+[2026-04-08 23:16:08] [KAMERA] [NORMAL] Confidence: %39.54
+[2026-04-08 23:16:11] [KAMERA] [CIZIK] Confidence: %36.53
+[2026-04-08 23:16:12] [KAMERA] [HASARLI] Confidence: %36.73
+[2026-04-08 23:16:13] [KAMERA] [KIRLI] Confidence: %39.17
+[2026-04-08 23:16:13] [KAMERA] [HASARLI] Confidence: %35.09
+[2026-04-08 23:16:14] [KAMERA] [CIZIK] Confidence: %36.47
+[2026-04-08 23:16:14] [KAMERA] [HASARLI] Confidence: %37.96
+[2026-04-08 23:16:14] [KAMERA] [CIZIK] Confidence: %36.23
+[2026-04-08 23:16:14] [KAMERA] [HASARLI] Confidence: %38.03
+[2026-04-08 23:16:15] [KAMERA] [CIZIK] Confidence: %36.76
+[2026-04-08 23:16:16] [KAMERA] [HASARLI] Confidence: %35.65
+[2026-04-08 23:16:16] [KAMERA] [NORMAL] Confidence: %35.66
+[2026-04-08 23:16:17] [KAMERA] [CIZIK] Confidence: %39.65
+[2026-04-08 23:16:17] [KAMERA] [HASARLI] Confidence: %37.10
+[2026-04-08 23:16:17] [KAMERA] [CIZIK] Confidence: %38.50
+[2026-04-08 23:16:29] [KAMERA] [NORMAL] Confidence: %35.65
+[2026-04-08 23:16:30] [KAMERA] [CIZIK] Confidence: %38.21
+[2026-04-08 23:16:30] [KAMERA] [HASARLI] Confidence: %35.37
+[2026-04-08 23:16:31] [KAMERA] [NORMAL] Confidence: %37.86
+[2026-04-08 23:16:33] [KAMERA] [HASARLI] Confidence: %36.87
+[2026-04-08 23:16:34] [KAMERA] [NORMAL] Confidence: %35.83
+[2026-04-08 23:16:34] [KAMERA] [CIZIK] Confidence: %38.88
+[2026-04-08 23:16:38] [KAMERA] [HASARLI] Confidence: %38.10
+[2026-04-08 23:16:38] [KAMERA] [CIZIK] Confidence: %39.36
+[2026-04-08 23:16:46] [KAMERA] [HASARLI] Confidence: %42.95
+[2026-04-08 23:16:47] [KAMERA] [NORMAL] Confidence: %45.06
+[2026-04-08 23:16:48] [KAMERA] [HASARLI] Confidence: %35.74
+[2026-04-08 23:16:49] [KAMERA] [NORMAL] Confidence: %35.30
+[2026-04-08 23:16:52] [KAMERA] [CIZIK] Confidence: %37.05
+[2026-04-08 23:16:54] [KAMERA] [HASARLI] Confidence: %39.89
+[2026-04-08 23:16:54] [KAMERA] [CIZIK] Confidence: %43.54
+[2026-04-08 23:16:56] [KAMERA] [HASARLI] Confidence: %35.47
+[2026-04-08 23:16:57] [KAMERA] [CIZIK] Confidence: %35.08
+[2026-04-08 23:16:58] [KAMERA] [NORMAL] Confidence: %36.06
+[2026-04-08 23:16:59] [KAMERA] [CIZIK] Confidence: %35.64
+[2026-04-08 23:17:01] [KAMERA] [HASARLI] Confidence: %38.53
+[2026-04-08 23:17:02] [KAMERA] [CIZIK] Confidence: %44.76
+[2026-04-08 23:17:03] [KAMERA] [HASARLI] Confidence: %37.33
+[2026-04-08 23:17:04] [KAMERA] [CIZIK] Confidence: %37.06
+[2026-04-08 23:17:05] [KAMERA] [HASARLI] Confidence: %36.95
+[2026-04-08 23:17:06] [KAMERA] [CIZIK] Confidence: %40.21
+[2026-04-08 23:17:08] [KAMERA] [HASARLI] Confidence: %36.70
+[2026-04-08 23:17:09] [KAMERA] [CIZIK] Confidence: %42.61
+[2026-04-08 23:17:10] [KAMERA] [HASARLI] Confidence: %37.65
+[2026-04-08 23:17:11] [KAMERA] [CIZIK] Confidence: %35.08
+[2026-04-08 23:17:11] [KAMERA] [HASARLI] Confidence: %40.14
+[2026-04-08 23:17:12] [KAMERA] [CIZIK] Confidence: %49.38
+[2026-04-08 23:17:13] [KAMERA] [NORMAL] Confidence: %35.23
+[2026-04-08 23:17:13] [KAMERA] [HASARLI] Confidence: %38.09
+[2026-04-08 23:17:14] [KAMERA] [CIZIK] Confidence: %40.96
+[2026-04-08 23:17:14] [KAMERA] [HASARLI] Confidence: %45.96
+[2026-04-08 23:17:15] [KAMERA] [CIZIK] Confidence: %43.30
+[2026-04-08 23:17:16] [KAMERA] [HASARLI] Confidence: %43.99
+[2026-04-08 23:17:16] [KAMERA] [CIZIK] Confidence: %35.97
+[2026-04-08 23:17:17] [KAMERA] [HASARLI] Confidence: %35.75
+[2026-04-08 23:17:18] [KAMERA] [CIZIK] Confidence: %42.88
+[2026-04-08 23:17:18] [KAMERA] [HASARLI] Confidence: %41.07
+[2026-04-08 23:17:21] [KAMERA] [CIZIK] Confidence: %35.10
+[2026-04-08 23:17:21] [KAMERA] [HASARLI] Confidence: %42.76
+[2026-04-08 23:17:22] [KAMERA] [CIZIK] Confidence: %43.99
+[2026-04-08 23:17:26] [KAMERA] [HASARLI] Confidence: %40.24
+[2026-04-08 23:17:26] [KAMERA] [CIZIK] Confidence: %38.69
+[2026-04-08 23:17:27] [KAMERA] [HASARLI] Confidence: %35.66
+[2026-04-08 23:17:27] [KAMERA] [CIZIK] Confidence: %35.01
+[2026-04-08 23:17:27] [KAMERA] [HASARLI] Confidence: %37.43
+[2026-04-08 23:17:27] [KAMERA] [CIZIK] Confidence: %35.22
+[2026-04-08 23:17:28] [KAMERA] [HASARLI] Confidence: %36.67
+[2026-04-08 23:17:28] [KAMERA] [CIZIK] Confidence: %38.95
+[2026-04-08 23:17:29] [KAMERA] [KIRLI] Confidence: %35.60
+[2026-04-08 23:17:31] [KAMERA] [HASARLI] Confidence: %37.92
+[2026-04-08 23:17:32] [KAMERA] [CIZIK] Confidence: %49.57
+[2026-04-08 23:17:32] [KAMERA] [HASARLI] Confidence: %36.83
+[2026-04-08 23:17:35] [KAMERA] [CIZIK] Confidence: %37.83
+[2026-04-08 23:17:37] [KAMERA] [HASARLI] Confidence: %37.40
+[2026-04-08 23:17:37] [KAMERA] [NORMAL] Confidence: %38.76
+[2026-04-08 23:17:37] [KAMERA] [CIZIK] Confidence: %36.83
+[2026-04-08 23:17:38] [KAMERA] [HASARLI] Confidence: %38.19
+[2026-04-08 23:17:38] [KAMERA] [CIZIK] Confidence: %38.75
+[2026-04-08 23:17:47] [KAMERA] [NORMAL] Confidence: %48.24
+[2026-04-08 23:17:48] [KAMERA] [HASARLI] Confidence: %39.48
+[2026-04-08 23:17:48] [KAMERA] [CIZIK] Confidence: %40.19
+[2026-04-08 23:17:52] [KAMERA] [HASARLI] Confidence: %38.38
+[2026-04-08 23:17:53] [KAMERA] [CIZIK] Confidence: %37.24
+[2026-04-08 23:17:55] [KAMERA] [HASARLI] Confidence: %37.89
+[2026-04-08 23:17:55] [KAMERA] [CIZIK] Confidence: %35.48
+[2026-04-08 23:17:55] [KAMERA] [HASARLI] Confidence: %35.60
+[2026-04-08 23:17:55] [KAMERA] [CIZIK] Confidence: %36.64
+[2026-04-08 23:17:57] [KAMERA] [KIRLI] Confidence: %35.03
+[2026-04-08 23:17:57] [KAMERA] [CIZIK] Confidence: %35.09
+[2026-04-08 23:17:59] [KAMERA] [HASARLI] Confidence: %36.94
+[2026-04-08 23:17:59] [KAMERA] [CIZIK] Confidence: %42.73
+[2026-04-08 23:18:09] [KAMERA] [HASARLI] Confidence: %35.01
+[2026-04-08 23:18:09] [KAMERA] [CIZIK] Confidence: %48.60
+[2026-04-08 23:18:10] [KAMERA] [HASARLI] Confidence: %36.69
+[2026-04-08 23:18:10] [KAMERA] [CIZIK] Confidence: %41.75
+[2026-04-08 23:18:11] [KAMERA] [NORMAL] Confidence: %39.03
+[2026-04-08 23:18:11] [KAMERA] [HASARLI] Confidence: %35.25
+[2026-04-08 23:18:11] [KAMERA] [CIZIK] Confidence: %36.85
+[2026-04-08 23:18:14] [KAMERA] [HASARLI] Confidence: %37.78
+[2026-04-08 23:18:15] [KAMERA] [CIZIK] Confidence: %38.45
+[2026-04-08 23:18:15] [KAMERA] [HASARLI] Confidence: %35.14
+[2026-04-08 23:18:15] [KAMERA] [CIZIK] Confidence: %36.12
+[2026-04-08 23:18:18] [KAMERA] [HASARLI] Confidence: %37.87
+[2026-04-08 23:18:20] [KAMERA] [CIZIK] Confidence: %38.12
+[2026-04-08 23:18:21] [KAMERA] [HASARLI] Confidence: %36.14
+[2026-04-08 23:18:29] [KAMERA] [CIZIK] Confidence: %36.03
+[2026-04-08 23:18:29] [KAMERA] [HASARLI] Confidence: %35.30
+[2026-04-08 23:18:30] [KAMERA] [CIZIK] Confidence: %37.48
+[2026-04-08 23:18:30] [KAMERA] [HASARLI] Confidence: %41.94
+[2026-04-08 23:18:32] [KAMERA] [CIZIK] Confidence: %38.71
+[2026-04-08 23:18:52] [KAMERA] [HASARLI] Confidence: %35.45
+[2026-04-08 23:18:52] [KAMERA] [CIZIK] Confidence: %35.38
+[2026-04-12 20:34:24] [KAMERA] [HASARLI] Confidence: %37.95
+[2026-04-12 20:34:25] [KAMERA] [CIZIK] Confidence: %36.60
+[2026-04-12 20:34:25] [KAMERA] [HASARLI] Confidence: %39.12
+[2026-04-12 20:34:26] [KAMERA] [CIZIK] Confidence: %41.09
+[2026-04-12 20:34:26] [KAMERA] [HASARLI] Confidence: %40.28
+[2026-04-12 20:34:28] [KAMERA] [CIZIK] Confidence: %44.12
+[2026-04-12 20:34:28] [KAMERA] [HASARLI] Confidence: %38.97
+[2026-04-12 20:34:29] [KAMERA] [CIZIK] Confidence: %41.02
+[2026-04-12 20:34:29] [KAMERA] [HASARLI] Confidence: %35.74
+[2026-04-12 20:34:30] [KAMERA] [CIZIK] Confidence: %38.01
+[2026-04-12 20:34:33] [KAMERA] [HASARLI] Confidence: %39.80
+[2026-04-12 20:34:33] [KAMERA] [CIZIK] Confidence: %39.65
+[2026-04-12 20:34:52] [KAMERA] [HASARLI] Confidence: %35.52
+[2026-04-12 20:34:53] [KAMERA] [CIZIK] Confidence: %45.55
+[2026-04-12 20:34:55] [KAMERA] [NORMAL] Confidence: %42.75
+[2026-04-12 20:34:57] [KAMERA] [HASARLI] Confidence: %38.45
+[2026-04-12 20:34:57] [KAMERA] [CIZIK] Confidence: %41.99
+[2026-04-12 20:35:00] [KAMERA] [HASARLI] Confidence: %37.72
+[2026-04-12 20:35:06] [KAMERA] [KIRLI] Confidence: %41.42
+[2026-04-12 20:35:06] [KAMERA] [CIZIK] Confidence: %42.51
+[2026-04-12 20:35:06] [KAMERA] [HASARLI] Confidence: %41.32
+[2026-04-12 20:35:07] [KAMERA] [CIZIK] Confidence: %41.73
+[2026-04-12 20:35:07] [KAMERA] [HASARLI] Confidence: %40.95
+[2026-04-12 20:35:08] [KAMERA] [CIZIK] Confidence: %41.22
+[2026-04-12 20:35:10] [KAMERA] [NORMAL] Confidence: %45.31
+[2026-04-12 20:35:11] [KAMERA] [CIZIK] Confidence: %43.21
+[2026-04-12 20:35:12] [KAMERA] [NORMAL] Confidence: %35.12
+[2026-04-12 20:35:12] [KAMERA] [CIZIK] Confidence: %37.44
+[2026-04-12 20:35:12] [KAMERA] [NORMAL] Confidence: %36.85
+[2026-04-12 20:35:16] [KAMERA] [CIZIK] Confidence: %37.39
+[2026-04-12 20:35:18] [KAMERA] [HASARLI] Confidence: %37.19
+[2026-04-12 20:35:19] [KAMERA] [CIZIK] Confidence: %39.04
+[2026-04-12 20:35:19] [KAMERA] [NORMAL] Confidence: %35.76
+[2026-04-12 20:35:20] [KAMERA] [CIZIK] Confidence: %36.04
+[2026-04-12 20:35:21] [KAMERA] [KIRLI] Confidence: %35.36
+[2026-04-12 20:35:22] [KAMERA] [CIZIK] Confidence: %38.87
+[2026-04-12 20:35:23] [KAMERA] [NORMAL] Confidence: %36.48
+[2026-04-12 20:35:24] [KAMERA] [CIZIK] Confidence: %39.20
+[2026-04-12 20:35:25] [KAMERA] [NORMAL] Confidence: %38.72
+[2026-04-12 20:35:26] [KAMERA] [HASARLI] Confidence: %36.01
+[2026-04-12 20:35:28] [KAMERA] [CIZIK] Confidence: %36.91
+[2026-04-12 20:35:28] [KAMERA] [HASARLI] Confidence: %38.64
+[2026-04-12 20:35:29] [KAMERA] [NORMAL] Confidence: %35.52
+[2026-04-12 20:35:30] [KAMERA] [HASARLI] Confidence: %35.69
+[2026-04-12 20:35:30] [KAMERA] [CIZIK] Confidence: %43.51
+[2026-04-12 20:35:31] [KAMERA] [NORMAL] Confidence: %35.00
+[2026-04-12 20:35:35] [KAMERA] [HASARLI] Confidence: %40.49
+[2026-04-12 20:35:35] [KAMERA] [NORMAL] Confidence: %38.72
+[2026-04-12 20:35:36] [KAMERA] [CIZIK] Confidence: %41.26
+[2026-04-12 20:35:37] [KAMERA] [NORMAL] Confidence: %38.59
+[2026-04-12 20:35:43] [KAMERA] [HASARLI] Confidence: %35.58
+[2026-04-12 20:35:44] [KAMERA] [CIZIK] Confidence: %37.32
+[2026-04-12 20:35:44] [KAMERA] [NORMAL] Confidence: %40.70
+[2026-04-12 20:35:47] [KAMERA] [HASARLI] Confidence: %36.22
+[2026-04-12 20:35:47] [KAMERA] [NORMAL] Confidence: %37.90
+[2026-04-12 20:35:48] [KAMERA] [HASARLI] Confidence: %35.44
+[2026-04-12 20:35:49] [KAMERA] [NORMAL] Confidence: %41.26
+[2026-04-12 20:35:55] [KAMERA] [CIZIK] Confidence: %39.57
+[2026-04-12 20:35:55] [KAMERA] [HASARLI] Confidence: %39.94
+[2026-04-12 20:35:56] [KAMERA] [NORMAL] Confidence: %37.75
+[2026-04-12 20:35:56] [KAMERA] [HASARLI] Confidence: %37.01
+[2026-04-12 20:35:57] [KAMERA] [NORMAL] Confidence: %35.80
+[2026-04-12 20:35:58] [KAMERA] [HASARLI] Confidence: %38.26
+[2026-04-12 20:35:59] [KAMERA] [CIZIK] Confidence: %35.78
+[2026-04-12 20:35:59] [KAMERA] [HASARLI] Confidence: %35.10
+[2026-04-12 20:36:00] [KAMERA] [CIZIK] Confidence: %35.64
+[2026-04-12 20:36:00] [KAMERA] [HASARLI] Confidence: %35.11
+[2026-04-12 20:36:01] [KAMERA] [CIZIK] Confidence: %40.92
+[2026-04-12 20:36:02] [KAMERA] [NORMAL] Confidence: %36.57
+[2026-04-12 20:36:03] [KAMERA] [CIZIK] Confidence: %35.63
+[2026-04-12 20:36:04] [KAMERA] [NORMAL] Confidence: %35.61
+[2026-04-12 20:36:07] [KAMERA] [HASARLI] Confidence: %38.35
+[2026-04-12 20:36:10] [KAMERA] [CIZIK] Confidence: %40.05
+[2026-04-12 20:36:11] [KAMERA] [HASARLI] Confidence: %40.56
+[2026-04-12 20:36:11] [KAMERA] [CIZIK] Confidence: %43.56
+[2026-04-12 20:36:12] [KAMERA] [HASARLI] Confidence: %37.93
+[2026-04-12 20:36:12] [KAMERA] [CIZIK] Confidence: %36.20
+[2026-04-12 20:36:15] [KAMERA] [NORMAL] Confidence: %39.07
+[2026-04-12 20:36:15] [KAMERA] [CIZIK] Confidence: %36.01
+[2026-04-12 20:36:15] [KAMERA] [NORMAL] Confidence: %35.38
+[2026-04-12 20:36:16] [KAMERA] [CIZIK] Confidence: %40.40
+[2026-04-12 20:36:16] [KAMERA] [NORMAL] Confidence: %38.77
+[2026-04-12 20:36:19] [KAMERA] [CIZIK] Confidence: %37.09
+[2026-04-12 20:36:20] [KAMERA] [HASARLI] Confidence: %38.05
+[2026-04-12 20:36:26] [KAMERA] [CIZIK] Confidence: %37.37
+[2026-04-12 20:36:26] [KAMERA] [HASARLI] Confidence: %39.84
+[2026-04-12 20:36:26] [KAMERA] [CIZIK] Confidence: %39.76
+[2026-04-12 20:36:26] [KAMERA] [HASARLI] Confidence: %45.23
+[2026-04-12 20:36:27] [KAMERA] [NORMAL] Confidence: %39.91
+[2026-04-12 20:36:28] [KAMERA] [CIZIK] Confidence: %36.50
+[2026-04-12 20:36:29] [KAMERA] [HASARLI] Confidence: %37.49
+[2026-04-12 20:36:30] [KAMERA] [CIZIK] Confidence: %43.99
+[2026-04-12 20:36:31] [KAMERA] [NORMAL] Confidence: %44.19
+[2026-04-12 20:36:37] [KAMERA] [KIRLI] Confidence: %36.21
+[2026-04-12 20:36:37] [KAMERA] [NORMAL] Confidence: %36.42
+[2026-04-12 20:36:41] [KAMERA] [HASARLI] Confidence: %42.34
+[2026-04-12 20:36:42] [KAMERA] [NORMAL] Confidence: %39.33
+[2026-04-12 20:36:42] [KAMERA] [HASARLI] Confidence: %38.43
+[2026-04-12 20:36:43] [KAMERA] [NORMAL] Confidence: %35.45
+[2026-04-12 20:36:44] [KAMERA] [HASARLI] Confidence: %35.17
+[2026-04-12 20:36:45] [KAMERA] [NORMAL] Confidence: %35.44
+[2026-04-12 20:36:45] [KAMERA] [HASARLI] Confidence: %39.03
+[2026-04-12 20:36:46] [KAMERA] [KIRLI] Confidence: %37.65
+[2026-04-12 20:36:47] [KAMERA] [NORMAL] Confidence: %36.37
+[2026-04-12 20:36:48] [KAMERA] [HASARLI] Confidence: %36.02
+[2026-04-12 20:36:51] [KAMERA] [CIZIK] Confidence: %36.61
+[2026-04-14 21:38:56] [KAMERA] [CIZIK] Confidence: %35.02
+[2026-04-14 21:38:57] [KAMERA] [NORMAL] Confidence: %38.32
+[2026-04-14 21:39:04] [KAMERA] [HASARLI] Confidence: %41.49
+[2026-04-14 21:39:05] [KAMERA] [NORMAL] Confidence: %40.47
+[2026-04-14 21:39:07] [KAMERA] [HASARLI] Confidence: %37.02
+[2026-04-14 21:39:08] [KAMERA] [KIRLI] Confidence: %35.78
+[2026-04-14 21:39:11] [KAMERA] [HASARLI] Confidence: %42.05
+[2026-04-14 21:39:11] [KAMERA] [KIRLI] Confidence: %37.03
+[2026-04-14 21:39:12] [KAMERA] [HASARLI] Confidence: %38.32
+[2026-04-14 21:39:12] [KAMERA] [KIRLI] Confidence: %39.31
+[2026-04-14 21:39:12] [KAMERA] [HASARLI] Confidence: %42.07
+[2026-04-14 21:39:12] [KAMERA] [KIRLI] Confidence: %42.01
+[2026-04-14 21:39:13] [KAMERA] [HASARLI] Confidence: %38.21
+[2026-04-14 21:39:13] [KAMERA] [CIZIK] Confidence: %36.05
+[2026-04-14 21:39:14] [KAMERA] [NORMAL] Confidence: %35.62
+[2026-04-14 21:39:15] [KAMERA] [HASARLI] Confidence: %39.37
+[2026-04-14 21:39:17] [KAMERA] [NORMAL] Confidence: %35.09
+[2026-04-14 21:39:52] [KAMERA] [CIZIK] Confidence: %38.78
+[2026-04-14 21:39:53] [KAMERA] [NORMAL] Confidence: %43.20
+[2026-04-14 21:40:01] [KAMERA] [PASLI] Confidence: %41.54
+[2026-04-14 21:40:04] [KAMERA] [HASARLI] Confidence: %43.80
+[2026-04-14 21:40:11] [KAMERA] [KIRLI] Confidence: %37.28
+[2026-04-14 21:40:12] [KAMERA] [HASARLI] Confidence: %42.21
+[2026-04-14 21:40:23] [KAMERA] [KIRLI] Confidence: %37.24
+[2026-04-14 21:40:23] [KAMERA] [HASARLI] Confidence: %40.14
+[2026-04-14 21:40:23] [KAMERA] [KIRLI] Confidence: %40.26
+[2026-04-14 21:40:23] [KAMERA] [HASARLI] Confidence: %39.53
+[2026-04-14 21:40:24] [KAMERA] [KIRLI] Confidence: %39.24
+[2026-04-14 21:40:24] [KAMERA] [HASARLI] Confidence: %36.64
+[2026-04-14 21:40:26] [KAMERA] [KIRLI] Confidence: %36.08
+[2026-04-14 21:40:26] [KAMERA] [HASARLI] Confidence: %38.18
+[2026-04-14 21:40:27] [KAMERA] [NORMAL] Confidence: %42.06
+[2026-04-14 21:40:28] [KAMERA] [KIRLI] Confidence: %35.21
+[2026-04-14 21:40:28] [KAMERA] [NORMAL] Confidence: %44.02
+[2026-04-14 21:40:32] [KAMERA] [HASARLI] Confidence: %35.80
+[2026-04-14 21:40:33] [KAMERA] [NORMAL] Confidence: %35.06
+[2026-04-14 21:40:33] [KAMERA] [KIRLI] Confidence: %35.60
+[2026-04-14 21:40:36] [KAMERA] [HASARLI] Confidence: %42.46
+[2026-04-14 21:40:38] [KAMERA] [CIZIK] Confidence: %38.43
+[2026-04-14 21:40:38] [KAMERA] [HASARLI] Confidence: %36.30
+[2026-04-14 21:40:39] [KAMERA] [CIZIK] Confidence: %35.51
+[2026-04-14 21:40:40] [KAMERA] [NORMAL] Confidence: %36.54
+[2026-04-14 21:40:40] [KAMERA] [CIZIK] Confidence: %36.82
+[2026-04-14 21:40:41] [KAMERA] [HASARLI] Confidence: %39.23
+[2026-04-14 21:40:41] [KAMERA] [CIZIK] Confidence: %41.35
+[2026-04-14 21:40:44] [KAMERA] [HASARLI] Confidence: %39.62
+[2026-04-14 21:40:44] [KAMERA] [NORMAL] Confidence: %35.14
+[2026-04-14 21:40:45] [KAMERA] [KIRLI] Confidence: %39.17
+[2026-04-14 21:40:46] [KAMERA] [PASLI] Confidence: %35.51
+[2026-04-14 21:40:52] [KAMERA] [HASARLI] Confidence: %40.91
+[2026-04-14 21:40:53] [KAMERA] [PASLI] Confidence: %37.68
+[2026-04-14 21:41:04] [KAMERA] [KIRLI] Confidence: %37.46
+[2026-04-14 21:41:04] [KAMERA] [NORMAL] Confidence: %37.99
+[2026-04-14 21:41:05] [KAMERA] [KIRLI] Confidence: %38.01
+[2026-04-14 21:41:06] [KAMERA] [NORMAL] Confidence: %38.89
+[2026-04-14 21:41:10] [KAMERA] [PASLI] Confidence: %35.24
+[2026-04-14 21:41:14] [KAMERA] [HASARLI] Confidence: %36.01
+[2026-04-14 21:41:18] [KAMERA] [KIRLI] Confidence: %35.94
+[2026-04-14 21:41:18] [KAMERA] [HASARLI] Confidence: %35.72
+[2026-04-14 21:41:18] [KAMERA] [CIZIK] Confidence: %38.41
+[2026-04-14 21:41:19] [KAMERA] [HASARLI] Confidence: %35.56
+[2026-04-14 21:41:19] [KAMERA] [CIZIK] Confidence: %36.58
+[2026-04-14 21:41:19] [KAMERA] [HASARLI] Confidence: %36.35
+[2026-04-14 21:41:21] [KAMERA] [NORMAL] Confidence: %35.14
+[2026-04-14 21:42:17] [KAMERA] [HASARLI] Confidence: %35.75
+[2026-04-14 21:42:17] [KAMERA] [CIZIK] Confidence: %39.64
+[2026-04-14 21:42:22] [KAMERA] [NORMAL] Confidence: %35.35
+[2026-04-14 21:42:25] [KAMERA] [CIZIK] Confidence: %39.69
+[2026-04-14 21:42:47] [KAMERA] [HASARLI] Confidence: %36.07
+[2026-04-14 21:42:47] [KAMERA] [NORMAL] Confidence: %41.13
+[2026-04-14 21:42:49] [KAMERA] [CIZIK] Confidence: %35.11
+[2026-04-14 21:42:49] [KAMERA] [HASARLI] Confidence: %42.41
+[2026-04-14 21:42:52] [KAMERA] [CIZIK] Confidence: %38.45
+[2026-04-14 21:43:02] [KAMERA] [HASARLI] Confidence: %39.69
+[2026-04-14 21:43:03] [KAMERA] [KIRLI] Confidence: %39.74
+[2026-04-14 21:43:03] [KAMERA] [HASARLI] Confidence: %40.65
+[2026-04-14 21:43:03] [KAMERA] [KIRLI] Confidence: %44.38
+[2026-04-14 21:43:03] [KAMERA] [HASARLI] Confidence: %41.28
+[2026-04-14 21:43:07] [KAMERA] [CIZIK] Confidence: %39.29
+[2026-04-14 21:43:07] [KAMERA] [KIRLI] Confidence: %39.16
+[2026-04-14 21:43:07] [KAMERA] [CIZIK] Confidence: %38.00
+[2026-04-14 21:43:10] [KAMERA] [HASARLI] Confidence: %35.53
+[2026-04-14 21:43:10] [KAMERA] [CIZIK] Confidence: %35.35
+[2026-04-14 21:43:11] [KAMERA] [HASARLI] Confidence: %37.86
+[2026-04-14 21:43:13] [KAMERA] [KIRLI] Confidence: %43.34
+[2026-04-14 21:43:13] [KAMERA] [HASARLI] Confidence: %39.28
+[2026-04-14 21:43:14] [KAMERA] [KIRLI] Confidence: %46.20
+[2026-04-14 21:43:15] [KAMERA] [HASARLI] Confidence: %44.04
+[2026-04-14 21:43:15] [KAMERA] [KIRLI] Confidence: %44.98
+[2026-04-14 21:43:17] [KAMERA] [HASARLI] Confidence: %40.57
+[2026-04-14 21:43:17] [KAMERA] [KIRLI] Confidence: %41.04
+[2026-04-14 21:43:18] [KAMERA] [HASARLI] Confidence: %43.36
+[2026-04-14 21:43:22] [KAMERA] [NORMAL] Confidence: %43.29
+[2026-04-14 21:43:23] [KAMERA] [HASARLI] Confidence: %41.10
+[2026-04-14 21:43:27] [KAMERA] [KIRLI] Confidence: %35.27
+[2026-04-14 21:43:27] [KAMERA] [HASARLI] Confidence: %35.91
+[2026-04-14 21:43:37] [KAMERA] [CIZIK] Confidence: %43.20
+[2026-04-14 21:43:38] [KAMERA] [HASARLI] Confidence: %37.47
+[2026-04-14 21:43:38] [KAMERA] [CIZIK] Confidence: %35.15
+[2026-04-14 21:43:40] [KAMERA] [HASARLI] Confidence: %40.61
+[2026-04-14 21:43:42] [KAMERA] [CIZIK] Confidence: %37.72
+[2026-04-14 21:43:42] [KAMERA] [HASARLI] Confidence: %36.81
+[2026-04-14 21:43:45] [KAMERA] [CIZIK] Confidence: %45.17
+[2026-04-14 21:43:45] [KAMERA] [HASARLI] Confidence: %40.37
+[2026-04-14 21:43:48] [KAMERA] [CIZIK] Confidence: %39.11
+[2026-04-14 21:43:49] [KAMERA] [HASARLI] Confidence: %38.30
+[2026-04-14 21:43:49] [KAMERA] [CIZIK] Confidence: %40.95
+[2026-04-14 21:43:50] [KAMERA] [HASARLI] Confidence: %36.07
+[2026-04-14 21:43:52] [KAMERA] [CIZIK] Confidence: %36.93
+[2026-04-14 21:43:53] [KAMERA] [HASARLI] Confidence: %39.95
+[2026-04-14 21:43:53] [KAMERA] [CIZIK] Confidence: %39.93
+[2026-04-14 21:43:54] [KAMERA] [HASARLI] Confidence: %38.33
+[2026-04-14 21:43:54] [KAMERA] [CIZIK] Confidence: %35.70
+[2026-04-14 21:43:54] [KAMERA] [HASARLI] Confidence: %36.43
+[2026-04-14 21:43:54] [KAMERA] [CIZIK] Confidence: %36.07
+[2026-04-14 21:43:55] [KAMERA] [HASARLI] Confidence: %36.22
+[2026-04-14 21:44:06] [KAMERA] [CIZIK] Confidence: %37.00
+[2026-04-14 21:44:07] [KAMERA] [HASARLI] Confidence: %35.07
+[2026-04-14 21:44:08] [KAMERA] [CIZIK] Confidence: %37.36
+[2026-04-14 21:44:14] [KAMERA] [KIRLI] Confidence: %37.11
+[2026-04-14 21:44:14] [KAMERA] [CIZIK] Confidence: %36.11
+[2026-04-14 21:44:15] [KAMERA] [KIRLI] Confidence: %37.42
+[2026-04-14 21:44:16] [KAMERA] [CIZIK] Confidence: %38.48
+[2026-04-14 21:44:19] [KAMERA] [HASARLI] Confidence: %40.67
+[2026-04-14 21:44:20] [KAMERA] [CIZIK] Confidence: %36.37
+[2026-04-14 21:44:22] [KAMERA] [HASARLI] Confidence: %41.29
+[2026-04-14 21:44:23] [KAMERA] [NORMAL] Confidence: %36.86
+[2026-04-14 21:44:30] [KAMERA] [KIRLI] Confidence: %35.59
+[2026-04-14 21:44:30] [KAMERA] [HASARLI] Confidence: %38.62
+[2026-04-14 21:44:34] [KAMERA] [PASLI] Confidence: %39.87
+[2026-04-14 21:44:35] [KAMERA] [HASARLI] Confidence: %37.68
+[2026-04-14 21:44:40] [KAMERA] [PASLI] Confidence: %36.21
+[2026-04-14 21:44:43] [KAMERA] [HASARLI] Confidence: %40.59
+[2026-04-14 21:44:44] [KAMERA] [KIRLI] Confidence: %42.87
+[2026-04-14 21:44:44] [KAMERA] [HASARLI] Confidence: %35.83
+[2026-04-14 21:44:46] [KAMERA] [PASLI] Confidence: %35.32
+[2026-04-14 21:45:40] [KAMERA] [HASARLI] Confidence: %37.32
+[2026-04-14 21:45:51] [KAMERA] [NORMAL] Confidence: %46.74
+[2026-04-14 21:45:56] [KAMERA] [CIZIK] Confidence: %45.47
+[2026-04-14 21:46:01] [KAMERA] [NORMAL] Confidence: %35.72
+[2026-04-14 21:46:01] [KAMERA] [HASARLI] Confidence: %39.91
+[2026-04-14 21:46:06] [KAMERA] [PASLI] Confidence: %42.69
+[2026-04-14 21:46:08] [KAMERA] [HASARLI] Confidence: %40.33
+[2026-04-14 21:46:17] [KAMERA] [PASLI] Confidence: %35.36
+[2026-04-14 21:46:17] [KAMERA] [HASARLI] Confidence: %38.96
+[2026-04-14 21:46:20] [KAMERA] [PASLI] Confidence: %45.59
+[2026-04-14 21:46:42] [KAMERA] [HASARLI] Confidence: %48.65
+[2026-04-14 21:50:07] [KAMERA] [PASLI] Confidence: %38.30
+[2026-04-14 21:50:07] [KAMERA] [HASARLI] Confidence: %38.71
+[2026-04-14 21:50:07] [KAMERA] [PASLI] Confidence: %40.27
+[2026-04-14 21:50:08] [KAMERA] [HASARLI] Confidence: %39.96
+[2026-04-14 21:50:32] [KAMERA] [NORMAL] Confidence: %37.33
+[2026-04-14 21:50:32] [KAMERA] [HASARLI] Confidence: %37.70
+[2026-04-14 21:50:33] [KAMERA] [NORMAL] Confidence: %40.28
+[2026-04-14 21:50:35] [KAMERA] [HASARLI] Confidence: %40.27
+[2026-04-14 21:50:36] [KAMERA] [NORMAL] Confidence: %41.00
+[2026-04-14 21:50:36] [KAMERA] [HASARLI] Confidence: %41.11
+[2026-04-14 21:50:41] [KAMERA] [NORMAL] Confidence: %41.05
+[2026-04-14 21:50:43] [KAMERA] [HASARLI] Confidence: %41.64
+[2026-04-14 21:50:44] [KAMERA] [NORMAL] Confidence: %41.87
+[2026-04-14 21:50:44] [KAMERA] [HASARLI] Confidence: %41.38
+[2026-04-14 21:50:44] [KAMERA] [NORMAL] Confidence: %43.13
+[2026-04-14 21:50:44] [KAMERA] [HASARLI] Confidence: %42.11
+[2026-04-14 21:50:53] [KAMERA] [NORMAL] Confidence: %42.66
+[2026-04-14 21:56:43] [KAMERA] [KIRLI] Confidence: %38.29
+[2026-04-14 21:56:49] [KAMERA] [CIZIK] Confidence: %35.18
+[2026-04-14 21:56:50] [KAMERA] [HASARLI] Confidence: %47.14
+[2026-04-14 21:57:01] [KAMERA] [NORMAL] Confidence: %40.35
+[2026-04-14 21:57:04] [KAMERA] [HASARLI] Confidence: %35.07
+[2026-04-14 21:57:07] [KAMERA] [KIRLI] Confidence: %36.09
+[2026-04-14 21:57:09] [KAMERA] [HASARLI] Confidence: %35.79
+[2026-04-14 21:57:12] [KAMERA] [PASLI] Confidence: %35.28
+[2026-04-14 21:57:13] [KAMERA] [HASARLI] Confidence: %36.90
+[2026-04-14 21:57:14] [KAMERA] [PASLI] Confidence: %36.30
+[2026-04-14 21:57:14] [KAMERA] [HASARLI] Confidence: %35.54
+[2026-04-14 21:57:14] [KAMERA] [PASLI] Confidence: %36.97
+[2026-04-14 21:57:14] [KAMERA] [HASARLI] Confidence: %36.73
+[2026-04-14 21:57:17] [KAMERA] [PASLI] Confidence: %36.59
+[2026-04-14 21:57:20] [KAMERA] [HASARLI] Confidence: %38.13
+[2026-04-14 21:57:21] [KAMERA] [PASLI] Confidence: %38.21
+[2026-04-14 21:57:22] [KAMERA] [HASARLI] Confidence: %38.40
+[2026-04-14 21:57:22] [KAMERA] [PASLI] Confidence: %38.57
+[2026-04-14 21:57:22] [KAMERA] [HASARLI] Confidence: %38.80
+[2026-04-14 21:57:28] [KAMERA] [PASLI] Confidence: %39.89
+[2026-04-14 22:01:39] [KAMERA] [HASARLI] Confidence: %35.63
+[2026-04-14 22:01:43] [KAMERA] [PASLI] Confidence: %35.90
+[2026-04-14 22:02:21] [KAMERA] [KIRLI] Confidence: %35.40
+[2026-04-14 22:02:24] [KAMERA] [PASLI] Confidence: %37.24
+[2026-04-14 22:06:31] [KAMERA] [HASARLI] Confidence: %36.11
+[2026-04-14 22:06:31] [KAMERA] [PASLI] Confidence: %35.12
+[2026-04-14 22:16:58] [KAMERA] [CIZIK] Confidence: %35.91
+[2026-04-14 22:16:59] [KAMERA] [KIRLI] Confidence: %36.11
+[2026-04-14 22:17:04] [KAMERA] [PASLI] Confidence: %36.47
+[2026-04-14 22:19:15] [KAMERA] [HASARLI] Confidence: %36.06
+[2026-04-14 22:19:16] [KAMERA] [PASLI] Confidence: %36.04
+[2026-04-14 22:19:18] [KAMERA] [HASARLI] Confidence: %41.04
+[2026-04-14 22:19:19] [KAMERA] [KIRLI] Confidence: %37.23
+[2026-04-14 22:19:21] [KAMERA] [NORMAL] Confidence: %38.10
+[2026-04-14 22:19:22] [KAMERA] [HASARLI] Confidence: %39.68
+[2026-04-14 22:19:25] [KAMERA] [PASLI] Confidence: %35.60
+[2026-04-14 22:19:27] [KAMERA] [HASARLI] Confidence: %35.54
+[2026-04-14 22:19:31] [KAMERA] [NORMAL] Confidence: %40.72
+[2026-04-14 22:19:32] [KAMERA] [PASLI] Confidence: %36.01
+[2026-04-14 22:19:36] [KAMERA] [KIRLI] Confidence: %40.00
+[2026-04-14 22:19:38] [KAMERA] [HASARLI] Confidence: %36.60
+[2026-04-14 22:19:38] [KAMERA] [NORMAL] Confidence: %38.58
+[2026-04-14 22:19:40] [KAMERA] [HASARLI] Confidence: %37.63
+[2026-04-15 20:58:19] [KAMERA] [KIRLI] Confidence: %39.30
+[2026-04-15 20:58:19] [KAMERA] [NORMAL] Confidence: %36.31
+[2026-04-15 20:58:24] [KAMERA] [KIRLI] Confidence: %40.56
+[2026-04-15 20:58:25] [KAMERA] [NORMAL] Confidence: %47.93
+[2026-04-15 20:58:29] [KAMERA] [KIRLI] Confidence: %37.75
+[2026-04-15 20:58:30] [KAMERA] [NORMAL] Confidence: %35.34
+[2026-04-15 20:58:37] [KAMERA] [HASARLI] Confidence: %35.93
+[2026-04-15 20:58:37] [KAMERA] [NORMAL] Confidence: %36.53
+[2026-04-15 20:58:42] [KAMERA] [HASARLI] Confidence: %36.12
+[2026-04-15 20:58:43] [KAMERA] [CIZIK] Confidence: %40.81
+[2026-04-15 20:58:43] [KAMERA] [HASARLI] Confidence: %44.41
+[2026-04-15 20:58:44] [KAMERA] [PASLI] Confidence: %48.75
+[2026-04-15 20:58:44] [KAMERA] [HASARLI] Confidence: %46.03
+[2026-04-15 20:59:07] [KAMERA] [PASLI] Confidence: %35.15
+[2026-04-15 20:59:09] [KAMERA] [HASARLI] Confidence: %38.13
+[2026-04-15 20:59:21] [KAMERA] [PASLI] Confidence: %36.51
+[2026-04-15 20:59:21] [KAMERA] [HASARLI] Confidence: %37.54
+[2026-04-15 20:59:21] [KAMERA] [PASLI] Confidence: %36.85
+[2026-04-15 20:59:21] [KAMERA] [HASARLI] Confidence: %37.97
+[2026-04-15 20:59:25] [KAMERA] [PASLI] Confidence: %40.35
+[2026-04-15 20:59:26] [KAMERA] [HASARLI] Confidence: %39.85
+[2026-04-15 20:59:33] [KAMERA] [PASLI] Confidence: %35.01
+[2026-04-15 20:59:33] [KAMERA] [HASARLI] Confidence: %37.05
+[2026-04-15 20:59:38] [KAMERA] [KIRLI] Confidence: %41.99
+[2026-04-15 20:59:38] [KAMERA] [PASLI] Confidence: %37.80
+[2026-04-15 20:59:39] [KAMERA] [KIRLI] Confidence: %41.16
+[2026-04-15 20:59:39] [KAMERA] [PASLI] Confidence: %37.75
+[2026-04-15 20:59:43] [KAMERA] [KIRLI] Confidence: %38.18
+[2026-04-15 20:59:44] [KAMERA] [PASLI] Confidence: %37.14
+[2026-04-15 20:59:44] [KAMERA] [HASARLI] Confidence: %37.78
+[2026-04-15 20:59:45] [KAMERA] [PASLI] Confidence: %38.02
+[2026-04-15 20:59:45] [KAMERA] [KIRLI] Confidence: %37.73
+[2026-04-15 20:59:57] [KAMERA] [PASLI] Confidence: %35.39
+[2026-04-15 20:59:58] [KAMERA] [KIRLI] Confidence: %35.37
+[2026-04-15 21:00:04] [KAMERA] [HASARLI] Confidence: %38.06
+[2026-04-15 21:00:05] [KAMERA] [KIRLI] Confidence: %35.56
+[2026-04-15 21:00:06] [KAMERA] [HASARLI] Confidence: %38.55
+[2026-04-15 21:00:07] [KAMERA] [KIRLI] Confidence: %41.38
+[2026-04-15 21:00:08] [KAMERA] [HASARLI] Confidence: %37.33
+[2026-04-15 21:00:12] [KAMERA] [KIRLI] Confidence: %35.10
+[2026-04-15 21:00:16] [KAMERA] [NORMAL] Confidence: %37.03
+[2026-04-15 21:00:17] [KAMERA] [KIRLI] Confidence: %36.06
+[2026-04-15 21:00:18] [KAMERA] [PASLI] Confidence: %36.05
+[2026-04-15 21:00:27] [KAMERA] [KIRLI] Confidence: %42.21
+[2026-04-15 21:00:28] [KAMERA] [NORMAL] Confidence: %36.19
+[2026-04-15 21:00:29] [KAMERA] [PASLI] Confidence: %35.81
+[2026-04-15 21:00:30] [KAMERA] [HASARLI] Confidence: %35.83
+[2026-04-25 21:04:28] [KAMERA] [CIZIK] Confidence: %56.84
+[2026-04-25 21:04:29] [KAMERA] [HASARLI] Confidence: %38.61
+[2026-04-25 21:06:38] [KAMERA] [CIZIK] Confidence: %54.17
+[2026-04-25 21:06:39] [KAMERA] [HASARLI] Confidence: %36.31
+[2026-04-25 21:14:29] [KAMERA] [CIZIK] Confidence: %53.58
+[2026-04-25 21:14:30] [KAMERA] [HASARLI] Confidence: %38.73
+[2026-04-25 21:14:48] [KAMERA] [NORMAL] Confidence: %44.02
+[2026-04-25 21:14:50] [KAMERA] [HASARLI] Confidence: %39.87
+[2026-04-25 21:14:54] [KAMERA] [NORMAL] Confidence: %43.06
+[2026-04-25 21:14:56] [KAMERA] [CIZIK] Confidence: %36.65
+[2026-04-25 21:14:57] [KAMERA] [PASLI] Confidence: %35.55
+[2026-04-25 21:14:58] [KAMERA] [CIZIK] Confidence: %36.04
+[2026-04-25 21:15:00] [KAMERA] [NORMAL] Confidence: %35.78
+[2026-04-25 21:15:06] [KAMERA] [CIZIK] Confidence: %37.10
+[2026-04-25 21:15:06] [KAMERA] [NORMAL] Confidence: %37.03
+[2026-04-25 21:15:06] [KAMERA] [CIZIK] Confidence: %38.76
+[2026-04-25 21:15:07] [KAMERA] [NORMAL] Confidence: %43.76
+[2026-04-25 21:15:08] [KAMERA] [KIRLI] Confidence: %35.90
+[2026-04-25 21:15:10] [KAMERA] [NORMAL] Confidence: %36.56
+[2026-04-25 21:15:22] [KAMERA] [HASARLI] Confidence: %37.01
+[2026-04-25 21:15:23] [KAMERA] [NORMAL] Confidence: %40.58
+[2026-04-25 21:15:23] [KAMERA] [HASARLI] Confidence: %40.37
+[2026-04-25 21:15:25] [KAMERA] [NORMAL] Confidence: %44.34
+[2026-04-25 21:20:46] [KAMERA] [CIZIK] Confidence: %37.32
+[2026-04-25 21:20:47] [KAMERA] [NORMAL] Confidence: %35.10
+[2026-04-25 21:20:48] [KAMERA] [HASARLI] Confidence: %36.27
+[2026-04-25 21:20:58] [KAMERA] [NORMAL] Confidence: %35.42
+[2026-04-25 21:21:05] [KAMERA] [HASARLI] Confidence: %35.23
+[2026-04-25 21:21:06] [KAMERA] [NORMAL] Confidence: %35.30
+[2026-04-25 21:30:02] [KAMERA] [HASARLI] Confidence: %36.25
+[2026-04-25 21:40:55] [KAMERA] [HASARLI] Confidence: %35.96
+[2026-04-25 21:46:54] [KAMERA] [HASARLI] Confidence: %42.65
+[2026-04-25 21:49:55] [KAMERA] [HASARLI] Confidence: %38.36
+[2026-04-25 22:25:53] [KAMERA] [HASARLI] Confidence: %44.14
+[2026-04-25 22:25:54] [KAMERA] [NORMAL] Confidence: %42.13
+[2026-04-25 22:25:59] [KAMERA] [HASARLI] Confidence: %37.10
+[2026-04-25 22:40:46] [KAMERA] [NORMAL] Confidence: %35.99
+[2026-04-29 22:00:52] [KAMERA] [CIZIK] Confidence: %68.53
+[2026-04-29 22:00:55] [KAMERA] [NORMAL] Confidence: %35.80
+[2026-04-29 22:00:57] [KAMERA] [HASARLI] Confidence: %36.63
+[2026-04-29 22:01:01] [KAMERA] [KIRLI] Confidence: %35.24
+[2026-04-29 22:01:02] [KAMERA] [HASARLI] Confidence: %35.04
+[2026-04-29 22:04:12] [KAMERA] [CIZIK] Confidence: %42.22
+[2026-04-29 22:04:12] [KAMERA] [HASARLI] Confidence: %41.34
+[2026-04-30 22:26:32] [KAMERA] [HASARLI] Confidence: %39.66
+[2026-04-30 22:26:33] [KAMERA] [KIRLI] Confidence: %35.40
+[2026-04-30 22:26:35] [KAMERA] [CIZIK] Confidence: %39.76
+[2026-04-30 22:26:36] [KAMERA] [HASARLI] Confidence: %36.04
+[2026-04-30 22:26:37] [KAMERA] [CIZIK] Confidence: %35.50
+[2026-04-30 22:26:41] [KAMERA] [HASARLI] Confidence: %38.80
+[2026-04-30 22:31:51] [KAMERA] [CIZIK] Confidence: %49.85
+[2026-04-30 22:31:51] [KAMERA] [HASARLI] Confidence: %39.38
+[2026-04-30 22:41:04] [KAMERA] [CIZIK] Confidence: %47.51
+[2026-04-30 22:41:05] [KAMERA] [NORMAL] Confidence: %41.67
+[2026-04-30 22:41:17] [KAMERA] [KIRLI] Confidence: %39.63
+[2026-04-30 22:41:17] [KAMERA] [NORMAL] Confidence: %41.00
+[2026-04-30 22:44:12] [KAMERA] [CIZIK] Confidence: %47.22
+[2026-04-30 22:44:13] [KAMERA] [NORMAL] Confidence: %38.11
+[2026-04-30 22:44:17] [KAMERA] [HASARLI] Confidence: %40.22
+[2026-04-30 22:44:18] [KAMERA] [KIRLI] Confidence: %35.54
+[2026-04-30 22:44:19] [KAMERA] [NORMAL] Confidence: %35.43
+[2026-04-30 22:44:20] [KAMERA] [KIRLI] Confidence: %35.49
+[2026-04-30 22:44:21] [KAMERA] [NORMAL] Confidence: %35.80
+[2026-04-30 22:44:28] [KAMERA] [KIRLI] Confidence: %35.68
+[2026-04-30 22:44:29] [KAMERA] [NORMAL] Confidence: %35.62
+[2026-04-30 22:44:43] [KAMERA] [KIRLI] Confidence: %35.29
+[2026-04-30 22:44:43] [KAMERA] [NORMAL] Confidence: %36.18
+[2026-04-30 22:44:45] [KAMERA] [KIRLI] Confidence: %35.45
+[2026-04-30 22:44:45] [KAMERA] [NORMAL] Confidence: %35.63
+[2026-04-30 22:44:47] [KAMERA] [KIRLI] Confidence: %35.52
+[2026-04-30 22:44:48] [KAMERA] [NORMAL] Confidence: %35.21
+[2026-04-30 22:44:50] [KAMERA] [KIRLI] Confidence: %35.39
+[2026-04-30 22:44:50] [KAMERA] [NORMAL] Confidence: %35.68
+[2026-04-30 22:44:54] [KAMERA] [KIRLI] Confidence: %36.40
+[2026-04-30 22:44:55] [KAMERA] [NORMAL] Confidence: %36.23
+[2026-04-30 22:44:55] [KAMERA] [KIRLI] Confidence: %35.39
+[2026-04-30 22:44:55] [KAMERA] [NORMAL] Confidence: %35.67
+[2026-04-30 22:53:18] [KAMERA] [CIZIK] Confidence: %54.36
+[2026-04-30 22:53:32] [KAMERA] [KIRLI] Confidence: %35.21
+[2026-04-30 22:55:24] [KAMERA] [CIZIK] Confidence: %46.70
+[2026-04-30 22:56:32] [KAMERA] [CIZIK] Confidence: %49.78
+[2026-04-30 22:56:56] [KAMERA] [KIRLI] Confidence: %35.29
+[2026-05-01 21:01:04] [C-LOGGER] [cizik] Confidence: %39.49
+[2026-05-01 21:01:05] [C-LOGGER] [hasarli] Confidence: %36.52
+[2026-05-01 21:01:13] [C-LOGGER] [normal] Confidence: %35.79
+[2026-05-01 21:01:17] [C-LOGGER] [kirli] Confidence: %35.16
+[2026-05-01 21:01:17] [C-LOGGER] [normal] Confidence: %35.22
+[2026-05-01 21:01:17] [C-LOGGER] [kirli] Confidence: %36.79
+[2026-05-01 21:01:19] [C-LOGGER] [normal] Confidence: %36.32
+[2026-05-01 21:01:20] [C-LOGGER] [kirli] Confidence: %35.87
+[2026-05-01 21:01:22] [C-LOGGER] [normal] Confidence: %37.06
+[2026-05-01 21:01:22] [C-LOGGER] [kirli] Confidence: %38.04
+[2026-05-01 21:01:22] [C-LOGGER] [normal] Confidence: %36.66
+[2026-05-01 21:01:23] [C-LOGGER] [kirli] Confidence: %38.22
+[2026-05-01 21:01:23] [C-LOGGER] [normal] Confidence: %38.28
+[2026-05-01 21:01:23] [C-LOGGER] [kirli] Confidence: %38.22
+[2026-05-01 21:01:23] [C-LOGGER] [normal] Confidence: %37.47
+[2026-05-01 21:01:24] [C-LOGGER] [kirli] Confidence: %37.80
+[2026-05-01 21:01:25] [C-LOGGER] [normal] Confidence: %37.87
+[2026-05-01 21:01:25] [C-LOGGER] [kirli] Confidence: %37.35
+[2026-05-01 21:01:26] [C-LOGGER] [normal] Confidence: %36.50
+[2026-05-01 21:01:26] [C-LOGGER] [kirli] Confidence: %36.90
+[2026-05-01 21:01:27] [C-LOGGER] [normal] Confidence: %37.08
+[2026-05-01 21:01:27] [C-LOGGER] [kirli] Confidence: %37.55
+[2026-05-01 21:01:27] [C-LOGGER] [normal] Confidence: %37.45
+[2026-05-01 21:01:27] [C-LOGGER] [kirli] Confidence: %38.13
+[2026-05-01 21:01:28] [C-LOGGER] [normal] Confidence: %38.12
+[2026-05-01 21:01:35] [C-LOGGER] [kirli] Confidence: %35.14
+[2026-05-01 21:01:35] [C-LOGGER] [normal] Confidence: %35.49
+[2026-05-01 21:01:37] [C-LOGGER] [kirli] Confidence: %35.06
+[2026-05-01 21:01:37] [C-LOGGER] [normal] Confidence: %35.62
+[2026-05-01 21:01:40] [C-LOGGER] [kirli] Confidence: %36.00
+[2026-05-01 21:01:41] [C-LOGGER] [normal] Confidence: %35.68
+[2026-05-01 21:01:54] [C-LOGGER] [hasarli] Confidence: %35.16
+[2026-05-01 21:01:55] [C-LOGGER] [cizik] Confidence: %45.43
+[2026-05-01 21:01:55] [C-LOGGER] [hasarli] Confidence: %45.19
+[2026-05-01 21:01:56] [C-LOGGER] [cizik] Confidence: %36.95
+[2026-05-01 21:01:59] [C-LOGGER] [hasarli] Confidence: %35.74
+[2026-05-01 21:01:59] [C-LOGGER] [cizik] Confidence: %35.91
+[2026-05-01 21:02:00] [C-LOGGER] [hasarli] Confidence: %35.94
+[2026-05-01 21:02:01] [C-LOGGER] [cizik] Confidence: %38.95
+[2026-05-01 21:02:03] [C-LOGGER] [hasarli] Confidence: %38.06
+[2026-05-01 21:02:07] [C-LOGGER] [kirli] Confidence: %35.32
+[2026-05-01 21:02:13] [C-LOGGER] [hasarli] Confidence: %35.25
+[2026-05-01 21:02:13] [C-LOGGER] [normal] Confidence: %37.32
+[2026-05-01 21:02:14] [C-LOGGER] [hasarli] Confidence: %36.41
+[2026-05-01 21:02:19] [C-LOGGER] [kirli] Confidence: %36.61
+[2026-05-01 21:02:24] [C-LOGGER] [hasarli] Confidence: %36.81
+[2026-05-01 21:02:27] [C-LOGGER] [normal] Confidence: %36.03
+[2026-05-01 21:02:31] [C-LOGGER] [pasli] Confidence: %35.48
+[2026-05-01 21:02:37] [C-LOGGER] [hasarli] Confidence: %35.31
+[2026-05-01 21:04:11] [C-LOGGER] [cizik] Confidence: %39.43
+[2026-05-01 21:57:43] [C-LOGGER] [cizik] Confidence: %82.26
+[2026-05-01 22:33:47] [C-LOGGER] [cizik] Confidence: %82.36
+[2026-05-01 22:38:38] [C-LOGGER] [cizik] Confidence: %82.76
+[2026-05-01 22:42:32] [C-LOGGER] [cizik] Confidence: %83.38
+[2026-05-01 22:46:16] [C-LOGGER] [cizik] Confidence: %83.35
+[2026-05-01 22:50:53] [C-LOGGER] [cizik] Confidence: %83.43
+[2026-05-14 20:04:40] [C-LOGGER] [hasarli] Confidence: %48.58
+[2026-05-14 20:07:08] [C-LOGGER] [pasli] Confidence: %40.90
+[2026-05-14 20:46:45] [C-LOGGER] [pasli] Confidence: %46.25
