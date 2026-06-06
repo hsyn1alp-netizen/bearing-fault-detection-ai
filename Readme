@@ -1,0 +1,34 @@
+# 🛠️ Hybrid Multi-Modal Predictive Maintenance & Fault Diagnosis System for Bearings
+
+This repository features a multi-modal **Predictive Maintenance (PdM)** platform designed to monitor structural health, detect early-stage mechanical anomalies, and analyze surface degradation in rotating machinery (bearings).
+
+The architecture leverages a high-performance modular approach: **MATLAB Coder** optimized MLP for vibration DSP, **Fuzzy Logic** and **Z-Score** systems for deterministic anomaly scoring, and **TensorFlow/Keras** CNN for spatial surface defect inspection.
+
+## 🚀 Key Features
+* **Multi-Modal AI Architecture:** Integrates traditional Machine Learning (MLP), expert-knowledge systems (Fuzzy Logic), and Deep Learning (CNN) into independent diagnostic pipelines.
+* **Embedded Software Optimization:** Models trained in MATLAB are compiled into hardware-independent C/C++ source code (`codegen`) for real-time edge computing.
+* **Statistical Anomaly Detection:** Utilizes real-time **Z-Score** algorithms to capture sudden deviations from baseline operational health.
+* **Hybrid Execution Framework:** Combines Python's flexibility with ultra-low-latency native C logging utilities.
+
+---
+
+## 📂 Repository Architecture
+
+* **`Bearing health condition/`** --> MATLAB Embedded / Fuzzy Logic and Z-Score based health tracking.
+* **`Bearing Failure Condition/`** --> MATLAB Coder / Embedded MLP model for vibration-based inner fault detection.
+* **`Bearing damage condition/`** --> TensorFlow-Keras / CNN model for surface damage analysis via images.
+
+---
+
+## 🔮 Future Roadmap
+* **Decision-Level Sensor Fusion:** Implementing a weighted decision-level data fusion algorithm to synthesize outputs from both vibration and visual networks into a single unified health index score.
+
+---
+
+## 💾 Pre-trained Model Weights
+Due to GitHub's file size limitations, the TensorFlow SavedModel weights are stored externally:
+
+
+
+## ✍️ Author
+* **Hüseyin Alp** - *Mechatronics Engineer* - [GitHub Profile](https://github.com/hsyn1alp-netizen)
